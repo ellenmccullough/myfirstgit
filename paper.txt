@@ -1,3 +1,1 @@
-this is the latex file with my paper text.
-
-Here ist he data section writeup
+This is a complete redo of this file. Scratch everything.
