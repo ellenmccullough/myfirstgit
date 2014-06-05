@@ -1,3 +1,5 @@
 this is the tex file with all of the stata figures
 
-Some new figs here!
+Some new figs <now debugged> here!
+
+
